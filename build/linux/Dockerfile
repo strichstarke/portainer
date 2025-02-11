@@ -33,3 +33,4 @@ LABEL io.portainer.server true
 
 ENTRYPOINT ["/portainer"]
 
+:)
